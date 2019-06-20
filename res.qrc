@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/actQuit.PNG</file>
+        <file>image/ini.PNG</file>
+        <file>image/statistic.PNG</file>
+    </qresource>
+</RCC>
